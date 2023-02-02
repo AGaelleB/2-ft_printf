@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "type_traits": "c",
+        "libftprintf.h": "c",
+        "ft_printf.h": "c",
+        "*.tcc": "c",
+        "sstream": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
